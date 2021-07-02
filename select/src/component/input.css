@@ -1,0 +1,17 @@
+.notdown{
+    display: flex;
+    flex-wrap: wrap;
+    border:2px solid rgb(153, 193, 248);
+    width:100%;
+    height:auto;
+    position: relative;
+    top:30px;
+ }
+
+.notdown :focus{
+    background: rgb(153, 193, 248);;
+}
+input{
+    border: none transparent;
+    outline: none;
+}

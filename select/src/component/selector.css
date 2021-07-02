@@ -1,0 +1,23 @@
+.container{
+    height:auto;
+    width:30%;
+}
+.OrderOption{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cursor-default{
+    background-color: rgb(184, 223, 236);
+    max-height: 200px;
+    overflow: auto;
+}
+.clickvalue :hover{
+      background-color: rgb(240, 245, 247);
+      font-weight: bold;
+}
+.formcontrol{
+    border: none transparent;
+    outline: none;
+}
+
+
